@@ -1,4 +1,14 @@
+## Intro
+The goal of this project repository is to build an automated script that can Extract and Load Crypto exchange data into a local enviornment.
+
 ## CoinCap Restful API automated data collection 
+
+**What is CoinCap?**
+
+CoinCap is a useful tool for real-time pricing and market activity for over 1,000 cryptocurrencies. By collecting exchange data from thousands of markets, we are able to offer transparent and accurate data on asset price and availability. 
+
+CoinCap Documentation: [https://docs.coincap.io/#d8fd6001-e127-448d-aadd-bfbfe2c89dbe](https://docs.coincap.io/#intro)
+
 
 ### Requirements (Modules)
 
