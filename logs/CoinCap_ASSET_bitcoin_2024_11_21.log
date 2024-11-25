@@ -1,0 +1,4 @@
+2024-11-21 11:38:40,518 - logger.py[line:34], set_logger[INFO]: Set logger level to info
+2024-11-21 11:38:40,519 - controller.py[line:47], main[INFO]: Executing CoinCap Session...
+2024-11-21 11:38:41,157 - controller.py[line:74], main[INFO]: Data Collection Complete.
+Done
